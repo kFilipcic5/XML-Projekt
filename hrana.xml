@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hranaStil.xsl"?>
+<meni>
+    <kategorija>
+         <jelo>
+            <ime>Kokošja juha</ime>
+            <cijena>50kn</cijena>
+            <opis></opis>
+         </jelo>
+         <jelo>
+            <ime>Krem juha od gljiva</ime>
+            <cijena>22kn</cijena>
+            <opis></opis>
+         </jelo>
+         <jelo>
+            <ime>Juha od rajčice</ime>
+            <cijena>20kn</cijena>
+            <opis></opis>
+         </jelo>
+    </kategorija>
+    <kategorija hrana="glavno">
+        <jelo>
+           <ime>Fino varivo s piletinom i graškom</ime>
+           <cijena>50kn</cijena>
+           <opis></opis>
+        </jelo>
+        <jelo>
+           <ime>Tikvice s kus kusom i sirom</ime>
+           <cijena>22kn</cijena>
+           <opis></opis>
+        </jelo>
+        <jelo>
+           <ime>Pileće kocke na tajlandski</ime>
+           <cijena>20kn</cijena>
+           <opis></opis>
+        </jelo>
+        <jelo>
+            <ime>Svinjski paprikaš</ime>
+            <cijena>38kn</cijena>
+            <opis></opis>
+        </jelo>
+        <jelo>
+            <ime>Penne rigate vegetarijana na crveno</ime>
+            <cijena>48kn</cijena>
+            <opis>(tikvice, patlhranažan, paprika)</opis>
+        </jelo>
+        <jelo>
+            <ime>Spaghetti Bolognese</ime>
+            <cijena>43kn</cijena>
+            <opis></opis>
+        </jelo>
+   </kategorija>
+   <kategorija hrana="rostilj">
+        <jelo>
+            <ime>Pljeskavica</ime>
+            <cijena>42kn</cijena>
+            <opis></opis>
+        </jelo>
+        <jelo>
+            <ime>Ćevapi u lepinji</ime>
+            <cijena>49kn</cijena>
+            <opis>
+                10 izuzetno sočnih ćevapa od 100% junećeg 
+                mljevenog mesa pripravljeni po staroj leskovačkog 
+                recepturi u domaćoj lepinji.
+            </opis>
+        </jelo>
+        <jelo>
+            <ime>Marinirani svinjski kotlet</ime>
+            <cijena>47kn</cijena>
+            <opis></opis>
+        </jelo>
+        <jelo>
+            <ime>T Bone steak</ime>
+            <cijena>220kn</cijena>
+            <opis>450g</opis>
+        </jelo>
+    </kategorija>
+    <kategorija hrana="slastice">
+        <jelo>
+            <ime>Palačinke</ime>
+            <cijena>18kn</cijena>
+            <opis>(nutela, marmelada, orasi // nutella, chocolate, walnuts)</opis>
+        </jelo>
+        <jelo>
+            <ime>Sladoled kuglica</ime>
+            <cijena>7kn</cijena>
+            <opis></opis>
+        </jelo>
+        <jelo>
+            <ime>Choco Magic</ime>
+            <cijena>33kn</cijena>
+            <opis></opis>
+        </jelo>
+    </kategorija>
+</meni>
